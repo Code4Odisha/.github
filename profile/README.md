@@ -1,1 +1,1 @@
-<h1 align="center">Code 4 Odisha<h2>
+Code 4 Odisha
